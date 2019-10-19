@@ -1,0 +1,32 @@
+
+.divao{
+    display:table-cell;
+}
+.ibagem{
+    border-color: black;
+    border-width: 5px;
+    border-style: inset;
+    width: 490px;
+    height: 400px;
+    padding: 10px;
+    background-color: pink;
+    float: left;
+    margin: 10px;
+
+
+}
+
+.ibagem img {
+    width: 450px; 
+    max-height: 350px;
+}
+
+#btninserir{
+
+}
+
+.btndel{
+    background:transparent;
+    border:0;
+    padding-top: 5px;
+}
